@@ -1,1 +1,21 @@
-
+item.vanillalock.name=Schloss
+msg.outdated.txt=Deine Version von UnlovedVanilla ist veraltet. Klicke hier um die Website zu besuchen!
+msg.currentversion.txt=Jetzige Version: 
+msg.latestversion.txt=Neuste Version: 
+msg.renametouse.txt=Du musst dieses Item zuerst umbennenen bevor du es benutzen kannst!
+msg.notlockable.txt=Das ist kein verschließbarer Block!
+msg.successlocked.txt=Der Block wurde erfolgreich verschlossen! (Benutze ein anderes Item mit dem gleichen Namen um ihn zu öffnen)
+msg.itemlocktooltip.txt=Bennene dieses Schloss um und benutze es auf einen verschließbaren Block
+potion.potency.54=LIV
+potion.effect.unluck=Trank des Pechs
+splash_potion.effect.unluck=Wurftrank des Pechs
+lingering_potion.effect.unluck=Verweiltrank des Pechs
+tipped_arrow.effect.unluck=Pfeil des Pechs
+potion.effect.levitation=Trank des Schwebens
+splash_potion.effect.levitation=Wurftrank des Schwebens
+lingering_potion.effect.levitation=Verweiltrank des Schwebens
+tipped_arrow.effect.levitation=Pfeil des Schwebens
+potion.effect.blindness=Trank des Erblindens
+splash_potion.effect.blindness=Wurftrank des Erblindens
+lingering_potion.effect.blindness=Verweiltrank des Erblindens
+tipped_arrow.effect.blindness=Pfeil des Erblindens
