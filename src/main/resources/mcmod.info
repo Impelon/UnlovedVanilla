@@ -1,0 +1,17 @@
+[
+{
+  "modid": "unlovedvanilla",
+  "name": "UnlovedVanilla",
+  "description": "A Mod adding many, different features that got left behind in the development of Minecraft",
+  "version": "1.0",
+  "mcversion": "1.9.4",
+  "url": "http://minecraft.curseforge.com/projects/unlovedvanilla",
+  "updateUrl": "",
+  "authorList": ["Impelon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["Forge"],
+  "dependencies": []
+}
+]
